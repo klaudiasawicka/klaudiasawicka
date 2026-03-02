@@ -1,6 +1,6 @@
 ## Hellooo 👋 (Readme in the making)
  
-My name is Klaudia Sawicka, and I'm a 5th semester IT student at Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University in Toruń.
+My name is Klaudia Sawicka, and I'm a 6th semester IT student at Faculty of Physics, Astronomy and Informatics, Nicolaus Copernicus University in Toruń.
 
 ## 🛠️ Tech Stack
 
